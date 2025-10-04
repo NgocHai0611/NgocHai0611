@@ -2,10 +2,11 @@
 
 <img alt="benner" style="width:100vw" src="https://storage.googleapis.com/duckly-blog/2021/03/gitduck-vs-code-extensions-animation-opt.gif">
 
-- 🔭 I’m currently working on Cyber Security. 
+- 🔭 I’m currently working on FullStack Devloper. 
+- 🌱 I’m currently learning security. 
 - 🌱 I’m looking to collaborate on IUH.
 - 🤝 I’m looking for help with everyone.
-- 🌱 I’m currently learning security.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
